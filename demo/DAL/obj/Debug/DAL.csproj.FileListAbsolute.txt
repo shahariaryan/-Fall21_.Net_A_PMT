@@ -1,0 +1,12 @@
+Z:\Study\.net\FinalTasks\demo\DAL\bin\Debug\DAL.dll.config
+Z:\Study\.net\FinalTasks\demo\DAL\bin\Debug\DAL.dll
+Z:\Study\.net\FinalTasks\demo\DAL\bin\Debug\DAL.pdb
+Z:\Study\.net\FinalTasks\demo\DAL\bin\Debug\EntityFramework.dll
+Z:\Study\.net\FinalTasks\demo\DAL\bin\Debug\EntityFramework.SqlServer.dll
+Z:\Study\.net\FinalTasks\demo\DAL\bin\Debug\EntityFramework.xml
+Z:\Study\.net\FinalTasks\demo\DAL\bin\Debug\EntityFramework.SqlServer.xml
+Z:\Study\.net\FinalTasks\demo\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+Z:\Study\.net\FinalTasks\demo\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+Z:\Study\.net\FinalTasks\demo\DAL\obj\Debug\DAL.csproj.CopyComplete
+Z:\Study\.net\FinalTasks\demo\DAL\obj\Debug\DAL.dll
+Z:\Study\.net\FinalTasks\demo\DAL\obj\Debug\DAL.pdb

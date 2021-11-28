@@ -1,0 +1,6 @@
+Z:\Study\.net\FinalTasks\demo\BEL\bin\Debug\BEL.dll
+Z:\Study\.net\FinalTasks\demo\BEL\bin\Debug\BEL.pdb
+Z:\Study\.net\FinalTasks\demo\BEL\obj\Debug\BEL.csproj.AssemblyReference.cache
+Z:\Study\.net\FinalTasks\demo\BEL\obj\Debug\BEL.csproj.CoreCompileInputs.cache
+Z:\Study\.net\FinalTasks\demo\BEL\obj\Debug\BEL.dll
+Z:\Study\.net\FinalTasks\demo\BEL\obj\Debug\BEL.pdb
